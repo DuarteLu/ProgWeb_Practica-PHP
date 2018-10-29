@@ -1,0 +1,14 @@
+Crear una web llamada pokedex.php que liste los pokemon con formato
+
+Imagen  nombre   ataque   imagenDelTipo
+
+Luego crear otro archivo busquedaPokemon.php que contenga un formulario
+que pase por get la variable whoisthatpokemon y la misma filtre la pokedex mostrando solamente el pokemon indicado.
+
+Deben funcionar los siguientes 3 casos de uso:
+Listar la pokedex si no paso ningun parametro
+Mostrar el pokemon solicitado
+Indicar el pokemon solicitado no existe en la pokedex actual
+
+Para generar la interfaz utiliar boostrap o w3css y que el resultado
+sea apto para venderlo al menos a nuestro hermano menor
